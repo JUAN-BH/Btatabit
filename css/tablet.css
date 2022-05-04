@@ -1,0 +1,17 @@
+.tables_slider {
+  justify-content: center;
+  overflow-x: hidden;
+}
+
+.product-card__container {
+  display: grid;
+  grid-template-columns: repeat(2, 400px);
+  grid-template-rows: repeat(2, 152px);
+  row-gap: 28px;
+  place-content: center;
+}
+
+.plans__container--silder {
+  justify-content: center;
+  overflow-x: hidden;
+}
